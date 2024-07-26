@@ -1,4 +1,4 @@
-Project Demo [Invoice Wallah](https://invoice-generatorr.vercel.app/)
+Project Demo [Invoice Wallah](https://invoicewallah.vercel.app/)
 
 ## Project Stack's Used 
  - Next js 
