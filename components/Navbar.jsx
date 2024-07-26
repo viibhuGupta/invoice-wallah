@@ -12,6 +12,10 @@ const navData = [
     name: "Pricing",
     path: "/",
   },
+  {
+    name: "Vibhu",
+    path: "/",
+  },
   
 ];
 
