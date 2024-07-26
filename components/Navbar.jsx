@@ -17,7 +17,7 @@ const navData = [
 
 const Navbar = () => {
   return (
-    <div className=" w-full bg-violet-800 text-white  flex justify-between items-center  bg-transparent p-4 pr-10 pl-10 ">
+    <div className=" w-full bg-violet-800 text-slate-200  flex justify-between items-center  bg-transparent p-4 pr-10 pl-10 ">
       <Link className="flex text-3xl items-center gap-4" href="/">
         InvoiceWallah
       </Link>
