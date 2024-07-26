@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .btn {
+    @apply py-1 px-6  hover:bg-opacity-70 rounded-[10px] text-white text-lg font-semibold;
+  }
+
+  .heading {
+    @apply font-bold text-[#160647] capitalize ;
+  }
+
+  .active-btn{
+    @apply bg-rose-500 p-3 rounded-lg text-white font-bold  ;
+  }
+
+
+
+
+.button-outline{
+  @apply border border-[#22c55e] rounded-lg p-3 pl-6 pr-6  ;
+
+}
+.input-tag-container{
+  @apply flex flex-col   gap-3 m-4 ;
+
+}
+.input-tag{
+  @apply p-3 rounded-md bg-gray-100 border focus:border border-gray-500 focus:border-[#6239b0] focus:bg-gray-50 duration-300 outline-none;
+
+}
+
+
+
+}
