@@ -13,7 +13,7 @@ const navData = [
     path: "/",
   },
   {
-    name: "Vibhu",
+    name: "Nitesh Gandu hai",
     path: "/",
   },
   
